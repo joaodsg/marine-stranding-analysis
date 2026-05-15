@@ -1,1 +1,7 @@
-
+date,species,region,count
+2020-01-05,Dolphin,North,3
+2020-01-10,Seal,South,1
+2020-02-02,Whale,North,2
+2020-02-15,Dolphin,East,4
+2020-03-01,Seal,West,2
+2020-03-10,Dolphin,North,1
